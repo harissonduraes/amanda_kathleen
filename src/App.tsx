@@ -1,17 +1,13 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       <div className="links">
         <div>
         <a href="https://www.youtube.com/@AmandaKathleen15">
-        <button href="https://www.youtube.com/@AmandaKathleen15">
+        <button>
         Youtube
         </button>
         </a>
