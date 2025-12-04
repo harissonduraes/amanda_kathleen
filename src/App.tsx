@@ -20,6 +20,13 @@ function App() {
       </a>
       </div> */}
         <div>
+          <a href="https://www.instagram.com/amanda_make08?igsh=MWU1ZWxxbmg5c3E2OQ==">
+            <button>
+              Instagram
+            </button>
+          </a>
+        </div>
+        <div>
           <a href="https://www.tiktok.com/@amanda_make2?_r=1&_t=ZS-91wJ4lxaaDR">
             <button>
               TikTok
