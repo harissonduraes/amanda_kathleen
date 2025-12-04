@@ -6,7 +6,7 @@ function App() {
     <>
       <div className="links">
         <div>
-          <a href="https://www.youtube.com/@AmandaKathleen15">
+          <a href="https://www.youtube.com/@AmandaKathleen-l1f1c">
             <button>
               Youtube
             </button>
@@ -20,9 +20,9 @@ function App() {
       </a>
       </div> */}
         <div>
-          <a href="https://www.instagram.com/amanda_kathleen15/">
+          <a href="https://www.tiktok.com/@amanda_make2?_r=1&_t=ZS-91wJ4lxaaDR">
             <button>
-              Instagram
+              TikTok
             </button>
           </a>
         </div>
