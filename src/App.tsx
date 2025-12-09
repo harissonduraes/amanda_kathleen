@@ -27,7 +27,7 @@ function App() {
           </a>
         </div>
         <div>
-          <a href="http://tiktok.com/@amandamake48">
+          <a href="https://www.tiktok.com/@amandamake08?_r=1&_t=ZS-92544KWNBCr">
             <button>
               TikTok
             </button>
